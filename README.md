@@ -53,7 +53,7 @@ helps to register an users for on events conducted in college fests with simple 
     
     i>cd C:\\xampp\htdocs\
     
-    ii>git clone https://github.com/PuneethReddyHC/event-management.git
+    ii>git clone 
     
 4. extract files in C:\\xampp\htdocs\.
 
