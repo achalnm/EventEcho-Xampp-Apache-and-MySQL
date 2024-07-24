@@ -1,4 +1,4 @@
-![GitHub]
+
 ![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.event)
 
 
@@ -74,9 +74,6 @@ helps to register an users for on events conducted in college fests with simple 
 12. first register and then login
 
 13. admin login details  Email=admin@gmail.com and Password=123456789.
-
-
-## Screenshots
 
 
 ##  If you like my project hit a star button
