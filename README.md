@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/PuneethReddyHC/online-shopping-system-advanced)
+![GitHub]
 ![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.event)
 
 
