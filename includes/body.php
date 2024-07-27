@@ -3,17 +3,17 @@
   include "header.php";
  
   ?>
-    <!-- END nav -->
+
     
     <div class="hero-wrap js-fullheight" style="background-image: url('images/cs03.jpg');">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-9 ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-            <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><strong>Explore <br></strong> your faviourate event</h1>
-            <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Fest starts in</p>
+            <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><strong>Explore <br></strong> your favourite events</h1>
+            <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"></p>
             <div>
-            <h1 class="mb-4"  data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><strong id="demo"><br></strong></h1>
+            
             
             </div>
             
@@ -54,7 +54,7 @@
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-guarantee"></span></div></div>
               <div class="media-body p-2 mt-2">
                 <h3 class="heading mb-3">Best Price Guarantee</h3>
-                <p>A small river named Duden flows by their place and supplies.</p>
+                <p>Unbeatable Offers for Your Events</p>
               </div>
             </div>      
           </div>
@@ -62,8 +62,8 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-like"></span></div></div>
               <div class="media-body p-2 mt-2">
-                <h3 class="heading mb-3">Travellers Love Us</h3>
-                <p>A small river named Duden flows by their place and supplies.</p>
+                <h3 class="heading mb-3">Users Love Us</h3>
+                <p>Real Stories from Satisfied Clients</p>
               </div>
             </div>    
           </div>
@@ -71,8 +71,8 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-detective"></span></div></div>
               <div class="media-body p-2 mt-2">
-                <h3 class="heading mb-3">Best Travel Agent</h3>
-                <p>A small river named Duden flows by their place and supplies.</p>
+                <h3 class="heading mb-3">Complete Event Discovery</h3>
+                <p>We Find All Available Events for You.</p>
               </div>
             </div>      
           </div>
@@ -80,8 +80,8 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-support"></span></div></div>
               <div class="media-body p-2 mt-2">
-                <h3 class="heading mb-3">Our Dedicated Support</h3>
-                <p>A small river named Duden flows by their place and supplies.</p>
+                <h3 class="heading mb-3">24/7 Customer Support</h3>
+                <p>Always Available, Always Reliable.</p>
               </div>
             </div>      
           </div>
@@ -109,15 +109,7 @@
 	    				</div>
 	    				<div class="item">
 		    				<div class="destination">
-		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/cs02.jpg);">
-		    						
-		    					</a>
-		    					
-		    				</div>
-	    				</div>
-	    				<div class="item">
-		    				<div class="destination">
-		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/cs03.jpg);">
+		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/hotel-1.jpg);">
 		    						
 		    					</a>
 		    					
@@ -133,7 +125,7 @@
 	    				</div>
 	    				<div class="item">
 		    				<div class="destination">
-		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/destination-5.jpg);">
+		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/hotel-3.jpg);">
 		    						
 		    					</a>
 		    					
@@ -141,7 +133,15 @@
 	    				</div>
 	    				<div class="item">
 		    				<div class="destination">
-		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/destination-6.jpg);">
+		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/hotel-5.jpg);">
+		    						
+		    					</a>
+		    					
+		    				</div>
+	    				</div>
+	    				<div class="item">
+		    				<div class="destination">
+		    					<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/hotel-2.jpg);">
 		    						
 		    					</a>
 		    					
@@ -158,7 +158,7 @@
     		<div class="row justify-content-start mb-5 pb-3">
              <div class="col-md-7 heading-section ftco-animate">
           	<span class="subheading">events</span>
-            <h2 class="mb-4"><strong>Book Your</strong>  Faviourate Event</h2>
+            <h2 class="mb-4"><strong>Book Your</strong>  Favourite Event</h2>
           </div>
         </div>  
     		<div class="row" id="technical" >
@@ -216,10 +216,10 @@
                                          $event_price
                                          <span>RS</span>
                                        </p>
-                                       <p>Far far away, behind the word mountains, far from the countries</p>
+                                       <p></p>
                                        <hr>
                                        <p class='bottom-area d-flex'>
-                                         <span><i class='icon-map-o'></i> Puneeth</span> 
+                                         <span><i class='icon-map-o'></i> EventEcho</span> 
                                          <span class='ml-auto'><a href='register.php?event_id=$event_id'>Book</a></span>
                                        </p>
                                      </div>
@@ -260,8 +260,8 @@
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-            <h2 class="mb-4">Some fun facts</h2>
-            <span class="subheading">More than 100,000 websites hosted</span>
+            <h2 class="mb-4">Stats & Struts</h2>
+            <span class="subheading">Where Numbers Meet the Spotlight</span>
           </div>
         </div>
     		<div class="row justify-content-center">
@@ -270,32 +270,32 @@
 		          <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
 		            <div class="block-18 text-center">
 		              <div class="text">
-		                <strong class="number" data-number="100000">0</strong>
-		                <span>Happy Customers</span>
+		                <strong class="number" data-number="1092">0</strong>
+		                <span>Happy Users</span>
 		              </div>
 		            </div>
 		          </div>
 		          <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
 		            <div class="block-18 text-center">
 		              <div class="text">
-		                <strong class="number" data-number="40000">0</strong>
-		                <span>Destination Places</span>
+		                <strong class="number" data-number="1502">0</strong>
+		                <span>Events</span>
 		              </div>
 		            </div>
 		          </div>
 		          <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
 		            <div class="block-18 text-center">
 		              <div class="text">
-		                <strong class="number" data-number="87000">0</strong>
-		                <span>Hotels</span>
+		                <strong class="number" data-number="140">0</strong>
+		                <span>Verified Locations</span>
 		              </div>
 		            </div>
 		          </div>
 		          <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
 		            <div class="block-18 text-center">
 		              <div class="text">
-		                <strong class="number" data-number="56400">0</strong>
-		                <span>Restaurant</span>
+		                <strong class="number" data-number="1293">0</strong>
+		                <span>Website Visits</span>
 		              </div>
 		            </div>
 		          </div>
@@ -308,49 +308,76 @@
 
    
 
-    <!-- <section class="ftco-section testimony-section bg-light">
+    <section class="ftco-section testimony-section bg-light">
       <div class="container">
         <div class="row justify-content-start">
           <div class="col-md-5 heading-section ftco-animate">
-          	<span class="subheading">Best Directory Website</span>
+          	<span class="subheading">Best Event Booking Website</span>
             <h2 class="mb-4 pb-3"><strong>Why</strong> Choose Us?</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life.</p>
+            <p>Event Echo offers a seamless booking experience for a wide range of events, backed by secure transactions and 24/7 customer support. Enjoy exclusive deals, real-time updates, and verified reviews to make informed choices. Our flexible payment options and easy cancellations ensure peace of mind. Join us for a reliable and enjoyable event-booking experience.</p>
+            <p>This brief version highlights the key points succinctly, making it easy for visitors to understand why they should choose your platform.</p>
             <p><a href="#" class="btn btn-primary btn-outline-primary mt-4 px-4 py-3">Read more</a></p>
           </div>
 					<div class="col-md-1"></div>
           <div class="col-md-6 heading-section ftco-animate">
           	<span class="subheading">Testimony</span>
-            <h2 class="mb-4 pb-3"><strong>Our</strong> Faculty</h2>
+            <h2 class="mb-4 pb-3"><strong>EventEcho</strong> from our users</h2>
           	<div class="row ftco-animate">
 		          <div class="col-md-12">
 		            <div class="carousel-testimony owl-carousel">
 		              <div class="item">
 		                <div class="testimony-wrap d-flex">
-		                  <div class="user-img mb-5" style="background-image: url(https://www.rrce.org/rrce/wp-content/uploads/2013/07/Dr.Balakrishna-R.jpg)">
-		                    <span class="quote d-flex align-items-center justify-content-center">
-                        
+                      <div class="user-img mb-5" style="background-image: url(images/person_1.jpg)">    
+		                    <span class="quote d-flex align-items-center justify-content-center">                       
 		                      <i class="icon-quote-left"></i>
 		                    </span>
 		                  </div>
 		                  <div class="text ml-md-4">
-		                    <p class="mb-5">Dr .R.Balakrishna is currently working as a Professor & Principal, Dept. of Computer Science and Engineering since 2010. His research and professional career spans about 15 years of Teaching & research, 1 Year Industrial Experience at TCS. His expertise is primarily in the domains of Ad hoc Networks, Mobile Computing, Networks, and Distributed OS.</p>
-		                    <p class="name">Dr. R. Balakrishna</p>
-		                    <span class="position">Professor and Principal</span>
+		                    <p class="mb-5">I've been using Event Echo for the past few months, and it has completely transformed the way I book tickets. The platform is incredibly user-friendly, and I can find and book tickets for any event within minutes. I especially appreciate the exclusive deals and discounts they offer—I've saved so much money on events I love. The real-time updates and verified reviews give me confidence in my choices, and the customer support is always there when I need it. I highly recommend Event Echo to anyone looking for a hassle-free and reliable ticket booking experience!</p>
+		                    <p class="name">Achal N</p>
+		                    <span class="position">Student</span>
 		                  </div>
 		                </div>
 		              </div>
 		              <div class="item">
 		                <div class="testimony-wrap d-flex">
-		                  <div class="user-img mb-5" style="background-image: url(https://www.rrce.org/rrce/wp-content/uploads/2014/01/Dr.-Usha-S.jpg)">
+                      <div class="user-img mb-5" style="background-image: url(images/person_4.jpg)">
 		                    <span class="quote d-flex align-items-center justify-content-center">
 		                      <i class="icon-quote-left"></i>
 		                    </span>
 		                  </div>
 		                  <div class="text ml-md-4">
-		                    <p class="mb-5">S. Usha, is working as a professor and head , CSE, RRCE. Graduated from Manonmanium Sundaranar University, in Computer Science and Engineering during the year 1998. She obtained her Master degree in Computer Science and Engineering and PhD degree from sathyabama university in the area of Mobile Ad Hoc Networks in the year 2013. She has 54 publications in International and National conferences, 22 publication in national journal and international journals in the area of Mobile Ad hoc Networks and wireless security.</p>
-		                    <p class="name">Dr. Usha S</p>
-		                    <span class="position">Professor & HOD</span>
+		                    <p class="mb-5">Event Echo has been a game-changer for me! Booking tickets for concerts and events is now so straightforward and stress-free. The site’s easy navigation, real-time updates, and exclusive discounts make it my go-to platform. I’ve also had great experiences with their customer service—quick and helpful responses whenever I’ve had questions. If you’re looking for a seamless and enjoyable way to book your next event, I definitely recommend giving Event Echo a try!</p>
+		                    <p class="name">Bhushan M V</p>
+		                    <span class="position">Student</span>
+		                  </div>
+		                </div>
+		              </div>
+                  <div class="item">
+		                <div class="testimony-wrap d-flex">
+                      <div class="user-img mb-5" style="background-image: url(images/image_6.jpg)">
+		                    <span class="quote d-flex align-items-center justify-content-center">
+		                      <i class="icon-quote-left"></i>
+		                    </span>
+		                  </div>
+		                  <div class="text ml-md-4">
+		                    <p class="mb-5">Event Echo has made booking tickets a breeze for me! Whether it’s a night out with friends or a special event, the platform is so intuitive and efficient. I love the exclusive discounts and the peace of mind I get from reading real reviews. The customer service is top-notch—they’re always there to help with any questions. I highly recommend Event Echo to anyone who wants a hassle-free and enjoyable way to find and book tickets!</p>
+		                    <p class="name">Pujitha D R</p>
+		                    <span class="position">Student</span>
+		                  </div>
+		                </div>
+		              </div>
+                  <div class="item">
+		                <div class="testimony-wrap d-flex">
+                      <div class="user-img mb-5" style="background-image: url(images/image_7.jpg)">
+		                    <span class="quote d-flex align-items-center justify-content-center">
+		                      
+		                    </span>
+		                  </div>
+		                  <div class="text ml-md-4">
+		                    <p class="mb-5">As a busy professional and event enthusiast, Event Echo has been a lifesaver for me! The platform is so easy to use, and I love how quickly I can book tickets for everything from concerts to theater shows. The exclusive deals are a nice bonus, and I always feel confident with the real-time updates and reviews. Plus, their customer support is fantastic—super friendly and responsive. I highly recommend Event Echo to anyone who wants a smooth and enjoyable ticket booking experience!</p>
+		                    <p class="name">Aruna A Shenoy</p>
+		                    <span class="position">Student</span>
 		                  </div>
 		                </div>
 		              </div>
@@ -360,7 +387,7 @@
           </div>
         </div>
       </div>
-    </section> -->
+    </section>
 
     
 

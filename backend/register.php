@@ -8,8 +8,8 @@ if (isset($_POST["full_name"])) {
 	$email = $_POST['email'];
 	$event_id = $_POST['event_id'];
 	$mobile = $_POST['mobile'];
-	$college = $_POST['college'];
-	$branch = $_POST['branch'];
+	$AltMobile = $_POST['AltMobile'];
+	$Altemail = $_POST['Altemail'];
 	$name = "/^[a-zA-Z ]+$/";
 	$emailValidation = "/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9]+(\.[a-z]{2,4})$/";
 	$number = "/^[0-9]+$/";
@@ -65,9 +65,9 @@ if(empty($full_name)  || empty($email)  ||
 	
 		$sql = "INSERT INTO `participants` 
 		(`p_id`,`event_id`, `fullname`, `email`, 
-		 `mobile`,  `college`, `branch`) 
+		 `mobile`,  `AltMobile`, `Altemail`) 
 		VALUES (NULL,'$event_id', '$full_name',  '$email', 
-		 '$mobile', '$college', '$branch')";
+		 '$mobile', '$AltMobile', '$Altemail')";
 		
 		if(mysqli_query($con,$sql)){
 			echo "register_success";
@@ -81,7 +81,6 @@ if(empty($full_name)  || empty($email)  ||
 
 
 ?>
-
 
 
 
