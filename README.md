@@ -26,7 +26,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   
 </p>
-<h1>Projects We develop</h1>
+<h1>Projects Developed</h1>
 
 <ul>
 	<li><b>Vue JS</b></li>
@@ -74,6 +74,3 @@ helps to register an users for on events conducted with simple logic with secure
 12. first register and then login
 
 13. admin login details  Email=admin@gmail.com and Password=123456789.
-
-
-##  If you like my project hit a star button
